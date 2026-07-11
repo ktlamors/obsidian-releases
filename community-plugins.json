@@ -1,10 +1,13 @@
 [
   {
-      "id": "random-review",
-      "name": "Random Review",
-      "author": "TimeLine",
-      "description": "从指定文件夹随机抽取笔记，支持标签和属性筛选，全屏浏览复习",
-      "repo": "ktlamors/obsidian-random-review"
+    "id": "random-review",
+    "name": "Random Review",
+    "version": "1.0.1",
+    "minAppVersion": "1.7.0",
+    "description": "Randomly select notes from specified folders with tag and property filtering, and review them in fullscreen.",
+    "author": "TimeLine",
+    "authorUrl": "https://github.com/ktlamors",
+    "isDesktopOnly": false
   },
   {
     "id": "table-editor-obsidian",
