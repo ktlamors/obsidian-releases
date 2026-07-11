@@ -18697,13 +18697,6 @@
     "repo": "tcatlas/obsidian-notes-calendar"
   },
   {
-    "id": "cloud-attach",
-    "name": "CloudAttach",
-    "author": "Garry",
-    "description": "Connect to OpenList and manage cloud attachments, insert signed file links into notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "curryhendry/obsidian-cloud-attach"
-  },
-  {
     "id": "ollama-notes-chat",
     "name": "Ollama Notes Chat",
     "author": "Taylor D. Marchetta",
@@ -22398,6 +22391,13 @@
     "author": "josteniok",
     "description": "Creates a folder at the location of the current note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "josteniok/create-folder-at-note-location"
+  },
+  {
+    "id": "smartpick",
+    "name": "SmartPick",
+    "author": "bcs",
+    "description": "Smart text selection toolbar with custom commands and AI features. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bcs1037/SmartPick"
   },
   {
     "id": "datestamp",
@@ -26747,6 +26747,13 @@
     "repo": "totocaster/vault-tasks-obsidian"
   },
   {
+    "id": "lexvoice",
+    "name": "LexVoice",
+    "author": "Lynnx",
+    "description": "后台录音、实时转写、AI 结构化纪要与知识沉淀 | Background recording, segmented or streaming transcription, and AI-organized Markdown notes for meetings, interviews, monologues, and learning material. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lynn-x/LexVoice"
+  },
+  {
     "id": "zulu-agent",
     "name": "Zulu Agent",
     "author": "foundlegacy",
@@ -27606,13 +27613,6 @@
     "author": "Ryukyu HUB Inc.",
     "description": "Right-sidebar chat panel powered by Claude Code. Runs the `claude` CLI as a subprocess with the active vault as the working directory. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ryukyuhub/obsidian-claude-panel-ryukyuhub"
-  },
-  {
-    "id": "task-hub",
-    "name": "Task Hub",
-    "author": "Carlos",
-    "description": "Bring Obsidian tasks together with Apple Reminders, Apple Calendar on macOS. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "saralaaga/task-hub"
   },
   {
     "id": "vault-share",
@@ -28831,6 +28831,13 @@
     "author": "Fozi",
     "description": "Copy or move notes, folders, attachments, and reviewed direct note dependencies between local desktop vaults. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fnsign/transvault"
+  },
+  {
+    "id": "encrypted-datasafe-notes",
+    "name": "Encrypted Datasafe Notes",
+    "author": "xauravww",
+    "description": "AES-encrypt markdown notes with lock/unlock vault, auto-lock timer, right-click encrypt/decrypt, corruption recovery, search decrypt, status bar indicator, file explorer decorations, and password change. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xauravww/obsidian-encrypted-datasafe-notes"
   },
   {
     "id": "token-count",
@@ -30086,13 +30093,6 @@
     "repo": "xuhuaya0/obsidian-plan-panel"
   },
   {
-    "id": "notes-exporter",
-    "name": "Notes Exporter",
-    "author": "anton",
-    "description": "Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "podviaznikov/notes-exporter-obsidian"
-  },
-  {
     "id": "dyresearch-sidecar",
     "name": "DyResearch AI Sidecar",
     "author": "Dylan Tartarini",
@@ -30670,7 +30670,7 @@
     "id": "copilot-personal",
     "name": "Copilot Personal",
     "author": "Josef",
-    "description": "AI agent with 17 tools, multi-provider LLM (11 providers), RAG semantic search, PDF extraction, web search, and autonomous note creation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "AI agent with 17 tools, 11 LLM providers, semantic RAG, PDF extraction, web search, batch processing, history search, popout window. Try Copilot AI free — 5 queries/day, no API key. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "josefbelzer/Copilot-Personal"
   },
   {
@@ -30700,6 +30700,13 @@
     "author": "PandoraReads",
     "description": "A powerful highlight note manager with multi-color annotations, AI-assisted notes, and smart review - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pandorareads/HiLighter"
+  },
+  {
+    "id": "mdtohtml",
+    "name": "md2html",
+    "author": "maalolan",
+    "description": "converts markdown file to html files with builtin css for easy hosting - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maal0lan/md2html"
   },
   {
     "id": "groove-kb",
@@ -31465,6 +31472,13 @@
     "repo": "chektek/obsidian-copy-link"
   },
   {
+    "id": "feishu-doc-toolbar",
+    "name": "ZengQiang Enhanced",
+    "author": "lishu",
+    "description": "浮动工具栏、模板库、原生表格配色与多种内嵌实用工具。需同时安装本仓库 companion-plugins 中的 markdown-table-enhancer。增强表格仅在开启实验性 OneNote 高保真粘贴时后台可用。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lishu2043687491-ux/Obsidian-ZengQiang"
+  },
+  {
     "id": "daily-note-template",
     "name": "Daily Note Template",
     "author": "kdnk",
@@ -32058,13 +32072,6 @@
     "author": "usero2-endofday",
     "description": "Creates a book-like index from words defined in a code block by searching your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "usero2/obsidian-plugins-book-index"
-  },
-  {
-    "id": "weave-incremental-reading",
-    "name": "Weave Incremental Reading",
-    "author": "zhuzhige123",
-    "description": "Standalone incremental reading workflow with topics, reading points, calendar scheduling, and source tracing. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhuzhige123/Obsidian-Weave-incremental-reading"
   },
   {
     "id": "lilbee",
@@ -36438,7 +36445,7 @@
     "id": "hearth",
     "name": "Hearth",
     "author": "ondreu",
-    "description": "A beautiful, customizable home screen — search, dashboard, and launcher in one, with many card options and embeds. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A beautiful, customizable home screen — dashboard, launchpad, mission control, homescreen, search - all in one. As simple or complex as you need. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/Hearth"
   },
   {
@@ -36601,6 +36608,13 @@
     "author": "Arseniy Seroka",
     "description": "Right-click a note to view all its media (images, video, audio, PDF) as a gallery with per-type tabs and a fullscreen lightbox. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jagajaga/obsidian-file-media-gallery"
+  },
+  {
+    "id": "csv-quiz-practice",
+    "name": "csv quiz practice",
+    "author": "Kong",
+    "description": "a csv to quiz plugin - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ozephyr-ctrl/csv-quiz-practice"
   },
   {
     "id": "maps-timeline",
@@ -38934,6 +38948,13 @@
     "repo": "anandrajbaghel/obsidian-gate-manager"
   },
   {
+    "id": "octo-agent",
+    "name": "Octo Agent",
+    "author": "open-octo",
+    "description": "Embeds the Octo Agent coding assistant in your vault. Your vault becomes its working directory, giving it capabilities for file reads and writes, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "open-octo/octo-obsidian"
+  },
+  {
     "id": "jmdict-popup-dictionary",
     "name": "JMdict Popup Dictionary (Japanese-English)",
     "author": "Katsuhiko Hata",
@@ -39011,10 +39032,66 @@
     "repo": "bartlab/obsidian-local-history"
   },
   {
+    "id": "embedded-terminal",
+    "name": "Embedded Terminal",
+    "author": "NoVarYe",
+    "description": "VS Code like terminal inside Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "no4var2ye/ObsidianEmbeddedTerminal"
+  },
+  {
     "id": "desk-photos",
     "name": "Desk Photos",
     "author": "tapeau",
     "description": "Add sticky and floating photos in your editor, fixed to your screen or to some part of your notes. Customize them with frames, tapes, pins, texts, and they can even play a sound! - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tapeau/Desk-Photos"
+  },
+  {
+    "id": "image-attachment-upload",
+    "name": "Image Attachment Upload",
+    "author": "rocketBANG",
+    "description": "Pick an image, upload it to Cloudflare R2, and insert it inline or set it as the note's image property. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rocketbang/obsidian-image-attachment-upload"
+  },
+  {
+    "id": "live-scribe",
+    "name": "Live Scribe",
+    "author": "Thomas Jeong",
+    "description": "Real-time meeting transcription in a sidebar, powered by ElevenLabs Scribe. Buffer the transcript and insert chosen parts into your note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "korthomasjeong/live-scribe"
+  },
+  {
+    "id": "leadsheet",
+    "name": "Leadsheet",
+    "author": "chrisamber",
+    "description": "Render ChordPro lead sheets with transpose, capo shapes, chord diagrams, set lists, and autoscroll. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chrisamber/obsidian-leadsheet"
+  },
+  {
+    "id": "web-embed",
+    "name": "Web Embed",
+    "author": "notenerd",
+    "description": "Embed any website as an interactive browser view inside a note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/web-embed"
+  },
+  {
+    "id": "icon-picker",
+    "name": "Icon picker",
+    "author": "rocketBANG",
+    "description": "Preview and pick Lucide icons for the icon frontmatter property, as used by the Bases map view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rocketbang/obsidian-icon-picker"
+  },
+  {
+    "id": "reading-time-status",
+    "name": "Reading Time Status",
+    "author": "loispsq",
+    "description": "Show word count and estimated reading time for the current note in the status bar (CJK-aware). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "loispsq/reading-time-status"
+  },
+  {
+    "id": "emotional-time-capsule",
+    "name": "Emotional Time Capsule",
+    "author": "ibrh96-prog",
+    "description": "Write what you feel now. Revisit it after time has changed its meaning. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ibrh96-prog/obsidian-emotional-time-capsule"
   }
 ]
