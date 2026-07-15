@@ -3,7 +3,7 @@
       "id": "random-review",
       "name": "Random Review",
       "author": "TimeLine",
-      "description": "从指定文件夹随机抽取笔记，支持标签和属性筛选，全屏浏览复习",
+      "description": "Random note review plugin for Obsidian.",
       "repo": "ktlamors/obsidian-random-review"
   },
   {
