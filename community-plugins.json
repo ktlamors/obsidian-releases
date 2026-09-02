@@ -1,5 +1,12 @@
 [
   {
+    "id": "random-review",
+    "name": "Random Review",
+    "author": "TimeLine",
+    "description": "Randomly pick notes from a folder with tag and property filtering.",
+    "repo": "ktlamors/obsidian-random-review"
+  },
+  {
     "id": "hotkeysplus-obsidian",
     "name": "Hotkeys++",
     "author": "argenos",
